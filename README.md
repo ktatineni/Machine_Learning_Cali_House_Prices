@@ -5,5 +5,5 @@ This data has metrics such as the population, median income, median housing pric
 Blocks are the smallest geographical unit for which the US Census Bureau publishes census data. 
 
 
-THE MODEL PREDICTS THE MEDIAN HOUSING PRICE IN ANY GIVEN DISTRICT, GIVEN ALL METRICS.
+THE MODEL PREDICTS THE MEDIAN HOUSING PRICE IN ANY GIVEN DISTRICT, GIVEN THE METRICS.
 
